@@ -1,0 +1,19 @@
+{
+  "name": "website-todo-list",
+  "version": "1.0.0",
+  "description": "Wedsite todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Learning about command line'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afiivy/website-todo-list.git"
+  },
+  "author": "Eyram Tsagli <afiivy@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afiivy/website-todo-list/issues"
+  },
+  "homepage": "https://github.com/afiivy/website-todo-list#readme"
+}
